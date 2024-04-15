@@ -1,0 +1,1 @@
+Para execução do sistema, baixe os arquivos e execute os respectivos jar: Bolsa.jar e Broker.jar
